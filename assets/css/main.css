@@ -1,0 +1,68 @@
+body{
+	background-color: blue;
+	color:white;
+}
+.row-product-2{
+    margin-top: 20px;
+}
+
+.form-inline{
+    display: block!important;
+}
+
+.product_item{
+
+}
+
+.product_main{
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.product_sub{
+
+}
+
+.producten{
+    width: 70%;
+    margin: 0 auto;
+}
+.container-fluid{
+	width: 15%;
+	height: 750px;
+	background-color: green;
+	border: 1px solid gray;
+    margin: 1px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.errorbestellingen{
+	margin-left : 30%;
+	top:5%;
+	position: absolute;
+}
+.tafel{
+	margin-left : 70%;
+	margin-top: -80px;
+}
+.tableres{
+	color:white;
+	margin-left : 270%;
+
+}
+.tablebes{
+	position: absolute;
+	margin-left : 30%;
+	top:5%;
+}
+.tablebes_koud{
+	position: absolute;
+	margin-left : 150%;
+	top:5%;
+	width: 100%;
+}
+input{
+	margin-bottom: 20px;
+}
